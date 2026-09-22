@@ -1,0 +1,12 @@
+# Quotes, Messages vs Calculations & Syntax
+
+print("2+5")
+print(2+5)
+print("10-3")
+print(10-3)
+print("Hello World!")
+print("Python")
+print("Hello")
+print("Hello")
+print("10+20")
+print(10+20)
